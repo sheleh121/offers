@@ -1,0 +1,8 @@
+*
+!public/
+!fonts/
+!avatars
+!pdf
+!temp
+!.gitignore
+!header.png
